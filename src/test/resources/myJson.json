@@ -1,0 +1,11 @@
+{
+  "myName": "Fedor",
+  "myWork": [
+    {
+      "address": {
+        "first": "octabrskaya",
+        "second": "sampsonevskyi"
+      }
+    }
+  ]
+}
